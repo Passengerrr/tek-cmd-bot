@@ -1,3 +1,10 @@
-## Açıklama
-Zamanında sunucumun botçuluğunu yapan, daha sonra sunucudan ayrılırken boosterlerı ve üyeleri banlayan prim vermek istemediğim arkadaşımızın altyapılarını paylaşıyorum.
-Altyapılarındaki kodların geneli çalıntı zaten, herneyse umarım işinize yarar istediğiniz gibi kullanın paylaşın.
+kodumun mateası altyapına sahip çık JHDFSAJKLFHDSAJKFHDSALFFKDSJKLFH ;)
+
+
+[MERCY GİTHUB](https://github.com/mercyxrd)
+
+
+
+reklamda yapak aq 
+
+htpps://discord.gg/0207 gelmeyen ermeni
