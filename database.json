@@ -1,0 +1,1138 @@
+{
+  "backupdurum": "true",
+  "guarddurum": "false",
+  "whitelist": [
+    {
+      "güvenli": "853245088671072272"
+    },
+    {
+      "güvenli": "853296888928141322"
+    },
+    {
+      "güvenli": "755794442446831769"
+    },
+    {
+      "güvenli": "824712883626573854"
+    },
+    {
+      "güvenli": "335775553229422593"
+    },
+    {
+      "güvenli": "831499348390838272"
+    },
+    {
+      "güvenli": "371199327797903370"
+    },
+    {
+      "güvenli": "716610215734411284"
+    }
+  ],
+  "kayıt": {
+    "607926085551783968": {
+      "e": 2,
+      "t": 2
+    },
+    "852616639073091604": {
+      "e": 2,
+      "t": 4,
+      "k": 2
+    },
+    "852640565694693447": {
+      "e": 3,
+      "t": 3
+    },
+    "852922734513356840": {
+      "e": 1,
+      "t": 1
+    }
+  },
+  "isimler": {
+    "769135301679382558": [
+      {
+        "isim": "• Deneme",
+        "kayıtsekil": "(<@&875863443079561246>)"
+      },
+      {
+        "isim": "• Alper",
+        "kayıtsekil": "(<@&875111621805080646>)"
+      },
+      {
+        "isim": "• Cezalı",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "xrd",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• Deneme",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "852927879091322880": [
+      {
+        "isim": "• constChrans",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "863414472499920906": [
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "DB 1",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "500297618505859072": [
+      {
+        "isim": "MC-AT",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "852937437864656916": [
+      {
+        "isim": "wanxysalvo? Ψ",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "803874557189947444": [
+      {
+        "isim": "Zane ⚚",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "785161125566218261": [
+      {
+        "isim": "Berke | 19",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "696027970401206282": [
+      {
+        "isim": "Lütfen Kayıt Olunuz",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "790779624992800818": [
+      {
+        "isim": "• BaarılıveYakııklıDus",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "852892575462981662": [
+      {
+        "isim": "✬ vexs",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• vexswill",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "831499348390838272": [
+      {
+        "isim": "kulaksiz",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "864168485935251477": [
+      {
+        "isim": "• AytownArmy",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• AytownArmy",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "510703149489848323": [
+      {
+        "isim": "• Sia",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "852695243127390239": [
+      {
+        "isim": "$eytan",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "852583298168782869": [
+      {
+        "isim": "• crawnxier",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "853356655840329749": [
+      {
+        "isim": "Kyleejn",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "827285031323697168": [
+      {
+        "isim": "• BankerRte",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "852696947541934101": [
+      {
+        "isim": "・ Reyyan | 17",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "662963368675770368": [
+      {
+        "isim": "・ Berkay | 18",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "807381361773379617": [
+      {
+        "isim": "Lütfen Kayıt Olunuz",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "852610826832576562": [
+      {
+        "isim": "• Alesti",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "663095415717101590": [
+      {
+        "isim": "† Berat | 11",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "849942546121883678": [
+      {
+        "isim": "• Ria",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "275361512493809664": [
+      {
+        "isim": "schwarze",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "453899932051701762": [
+      {
+        "isim": "• MMI",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "781842704559505418": [
+      {
+        "isim": "• siSntez",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "607926085551783968": [
+      {
+        "isim": "• Deneme",
+        "kayıtsekil": "(İsim Değiştirme)"
+      }
+    ],
+    "852640565694693447": [
+      {
+        "isim": "Berke | 19",
+        "kayıtsekil": "(† Helios)"
+      }
+    ],
+    "322748013405667338": [
+      {
+        "isim": "• Shine",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "764391877662605313": [
+      {
+        "isim": "• Drajee",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "584472893358997515": [
+      {
+        "isim": "Emre | 17",
+        "kayıtsekil": "(† Helios)"
+      }
+    ],
+    "852922734513356840": [
+      {
+        "isim": "BUZZZZZY",
+        "kayıtsekil": "(† Helios)"
+      },
+      {
+        "isim": "• Yaız",
+        "kayıtsekil": "(İsim Değiştirme)"
+      }
+    ],
+    "785596217576521769": [
+      {
+        "isim": "• Beyza",
+        "kayıtsekil": "(İsim Değiştirme)"
+      },
+      {
+        "isim": "• Beyza",
+        "kayıtsekil": "(† Luna)"
+      }
+    ],
+    "558164080918265867": [
+      {
+        "isim": "• Batuflex",
+        "kayıtsekil": "(† Helios)"
+      }
+    ],
+    "734068497159553096": [
+      {
+        "isim": "• Kerem",
+        "kayıtsekil": "(† Helios)"
+      }
+    ],
+    "680430636850479167": [
+      {
+        "isim": "・ Oğuzhan | 16",
+        "kayıtsekil": "(† Helios)"
+      }
+    ],
+    "811130528706986004": [
+      {
+        "isim": "• Muro",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "494370684655632414": [
+      {
+        "isim": "Arlie brr",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "797902294044639312": [
+      {
+        "isim": "・ Ceren | 16",
+        "kayıtsekil": "(† Luna)"
+      }
+    ],
+    "852977675365515334": [
+      {
+        "isim": "• buzzyy",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "687773402185859113": [
+      {
+        "isim": "BAB TATILKE POMPAKE`★",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "832728757474164827": [
+      {
+        "isim": "• relbin",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      },
+      {
+        "isim": "• relbin",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ],
+    "710129908118192128": [
+      {
+        "isim": "• emin",
+        "kayıtsekil": "(Sunucudan Ayrılma)"
+      }
+    ]
+  },
+  "cezaid": {
+    "863681026763915264": 5,
+    "855552926050549820": 5
+  },
+  "tempmute": [],
+  "punishments": {
+    "2": {
+      "863681026763915264": {
+        "mod": "607926085551783968",
+        "sebep": "denem",
+        "kisi": "769135301679382558",
+        "id": 2,
+        "zaman": "11 Ağustos 23:27:37",
+        "komut": "V.Mute"
+      },
+      "855552926050549820": {
+        "mod": "607926085551783968",
+        "sebep": "deneme",
+        "kisi": "769135301679382558",
+        "id": 2,
+        "zaman": "14 Ağustos 21:12:07",
+        "komut": "V.Mute"
+      }
+    },
+    "3": {
+      "863681026763915264": {
+        "mod": "607926085551783968",
+        "sebep": "deneme",
+        "kisi": "769135301679382558",
+        "id": 3,
+        "zaman": "11 Ağustos 23:27:50",
+        "komut": "Cezalı",
+        "Bitis": "Süresiz"
+      },
+      "855552926050549820": {
+        "mod": "607926085551783968",
+        "sebep": "deneme",
+        "kisi": "769135301679382558",
+        "id": 3,
+        "zaman": "14 Ağustos 21:26:21",
+        "komut": "V.Mute"
+      }
+    },
+    "4": {
+      "863681026763915264": {
+        "mod": "Mateas",
+        "sebep": "deneme",
+        "kisi": "769135301679382558",
+        "id": 4,
+        "zaman": "11 Ağustos 23:28:22",
+        "komut": "Yasaklanma"
+      },
+      "855552926050549820": {
+        "mod": "607926085551783968",
+        "sebep": "asd",
+        "kisi": "769135301679382558",
+        "id": 4,
+        "zaman": "14 Ağustos 21:32:27",
+        "komut": "V.Mute"
+      }
+    },
+    "5": {
+      "855552926050549820": {
+        "mod": "1954 Async",
+        "modid": "865187880828665868",
+        "sebep": "Çok fazla kişi etiketlemek.",
+        "kisi": "275361512493809664",
+        "id": 5,
+        "zaman": "14 Ağustos 16:22:09",
+        "komut": "Mute"
+      }
+    },
+    "NaN": {
+      "863681026763915264": {
+        "mod": "Mateas",
+        "modid": "607926085551783968",
+        "sebep": "denem",
+        "kisi": "769135301679382558",
+        "id": null,
+        "zaman": "11 Ağustos 23:27:28",
+        "komut": "Mute"
+      },
+      "855552926050549820": {
+        "mod": "1954 Async",
+        "modid": "865187880828665868",
+        "sebep": "Spam Yapmak",
+        "kisi": "769135301679382558",
+        "id": null,
+        "zaman": "14 Ağustos 21:11:36",
+        "komut": "Mute"
+      }
+    }
+  },
+  "mstatus": {
+    "863681026763915264": {
+      "769135301679382558": "false"
+    },
+    "855552926050549820": {
+      "769135301679382558": "false",
+      "275361512493809664": "false"
+    }
+  },
+  "sicil": {
+    "863681026763915264": {
+      "769135301679382558": [
+        {
+          "mod": "Mateas",
+          "modid": "607926085551783968",
+          "sebep": "denem",
+          "id": null,
+          "zaman": "11 Ağustos 23:27:28",
+          "komut": "Mute",
+          "Bitis": "11 Ağustos 23:28:28"
+        },
+        {
+          "modid": "607926085551783968",
+          "sebep": "denem",
+          "id": 2,
+          "zaman": "11 Ağustos 23:27:37",
+          "komut": "V.Mute"
+        },
+        {
+          "modid": "607926085551783968",
+          "sebep": "deneme",
+          "id": 3,
+          "zaman": "11 Ağustos 23:27:50",
+          "komut": "Cezalı",
+          "Bitis": "Süresiz"
+        },
+        {
+          "modid": "607926085551783968",
+          "sebep": "deneme",
+          "id": 4,
+          "zaman": "11 Ağustos 23:28:22",
+          "komut": "Yasaklama"
+        }
+      ]
+    },
+    "855552926050549820": {
+      "769135301679382558": [
+        {
+          "modid": "607926085551783968",
+          "sebep": "asd",
+          "id": 4,
+          "zaman": "14 Ağustos 21:32:27",
+          "komut": "V.Mute"
+        },
+        {
+          "modid": "607926085551783968",
+          "sebep": "deneme",
+          "id": 3,
+          "zaman": "14 Ağustos 21:26:21",
+          "komut": "V.Mute"
+        },
+        {
+          "modid": "607926085551783968",
+          "sebep": "deneme",
+          "id": 2,
+          "zaman": "14 Ağustos 21:12:07",
+          "komut": "V.Mute"
+        },
+        {
+          "mod": "1954 Async",
+          "modid": "865187880828665868",
+          "sebep": "Spam Yapmak",
+          "id": null,
+          "zaman": "14 Ağustos 21:11:36",
+          "komut": "Mute",
+          "Bitis": "14 Ağustos 21:21:36"
+        }
+      ],
+      "275361512493809664": [
+        {
+          "mod": "1954 Async",
+          "modid": "865187880828665868",
+          "sebep": "Çok fazla kişi etiketlemek.",
+          "id": 5,
+          "zaman": "14 Ağustos 16:22:09",
+          "komut": "Mute",
+          "Bitis": "14 Ağustos 16:27:09"
+        }
+      ]
+    }
+  },
+  "cezapuan": {
+    "863681026763915264": {
+      "769135301679382558": 99
+    },
+    "855552926050549820": {
+      "769135301679382558": 34,
+      "275361512493809664": 4
+    }
+  },
+  "cmuteCez": {
+    "607926085551783968": {
+      "863681026763915264": 1
+    },
+    "865187880828665868": {
+      "855552926050549820": 2
+    }
+  },
+  "cmute": {
+    "863681026763915264": {
+      "769135301679382558": 1
+    },
+    "855552926050549820": {
+      "769135301679382558": 1,
+      "275361512493809664": 1
+    }
+  },
+  "lastceza": {
+    "863681026763915264": 4,
+    "855552926050549820": 5
+  },
+  "tempsmute": [],
+  "vmuteCez": {
+    "607926085551783968": {
+      "863681026763915264": 1,
+      "855552926050549820": 3
+    }
+  },
+  "vmute": {
+    "863681026763915264": {
+      "769135301679382558": 1
+    },
+    "855552926050549820": {
+      "769135301679382558": 3
+    }
+  },
+  "vstatus": {
+    "863681026763915264": {
+      "769135301679382558": "false"
+    },
+    "855552926050549820": {
+      "769135301679382558": "false"
+    }
+  },
+  "jails": [],
+  "jstatus": {
+    "863681026763915264": {
+      "769135301679382558": [
+        "true"
+      ]
+    },
+    "769135301679382558": {
+      "863681026763915264": "false"
+    }
+  },
+  "jailCez": {
+    "607926085551783968": {
+      "863681026763915264": 1
+    }
+  },
+  "jail": {
+    "863681026763915264": {
+      "769135301679382558": 1
+    }
+  },
+  "bans": [],
+  "banCez": {
+    "607926085551783968": {
+      "863681026763915264": 1
+    }
+  },
+  "ban": {
+    "863681026763915264": {
+      "769135301679382558": 1
+    }
+  },
+  "rols": [
+    {
+      "rolid": "875449077893038111",
+      "rolPermission": 104320585
+    },
+    {
+      "rolid": "871137284622262353",
+      "rolPermission": 347208
+    },
+    {
+      "rolid": "871103927381266503",
+      "rolPermission": 1074120776
+    },
+    {
+      "rolid": "871758534809899049",
+      "rolPermission": 2134207679
+    },
+    {
+      "rolid": "875136544011325451",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "875863397835608135",
+      "rolPermission": 1178062529
+    },
+    {
+      "rolid": "875863462406914048",
+      "rolPermission": 104320593
+    },
+    {
+      "rolid": "871103527093674015",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "875863405498605609",
+      "rolPermission": 1178062529
+    },
+    {
+      "rolid": "875863394333384745",
+      "rolPermission": 506973889
+    },
+    {
+      "rolid": "871103289117249547",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "875863401300123650",
+      "rolPermission": 1178062529
+    },
+    {
+      "rolid": "871102757384355862",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "871137284622262353",
+      "rolPermission": 347208
+    },
+    {
+      "rolid": "871103927381266503",
+      "rolPermission": 1074120776
+    },
+    {
+      "rolid": "871758534809899049",
+      "rolPermission": 2134207679
+    },
+    {
+      "rolid": "875136544011325451",
+      "rolPermission": 8
+    },
+    {
+      "rolid": "875863397835608135",
+      "rolPermission": 1178062529
+    },
+    {
+      "rolid": "875863462406914048",
+      "rolPermission": 104320593
+    },
+    {
+      "rolid": "871103527093674015",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "875863405498605609",
+      "rolPermission": 1178062529
+    },
+    {
+      "rolid": "875863394333384745",
+      "rolPermission": 506973889
+    },
+    {
+      "rolid": "871103289117249547",
+      "rolPermission": 3457096
+    },
+    {
+      "rolid": "875863401300123650",
+      "rolPermission": 1178062529
+    },
+    {
+      "rolid": "871102757384355862",
+      "rolPermission": 8
+    }
+  ],
+  "snipe": {
+    "863681026763915264": [
+      {
+        "msg": "!yetkiaç",
+        "tarih": 1628883370533,
+        "admin": "D- DOSTUM BU MATEASSS",
+        "adminid": "607926085551783968",
+        "guild": "863681026763915264"
+      },
+      {
+        "msg": "!yetki aç",
+        "tarih": 1628883372568,
+        "admin": "D- DOSTUM BU MATEASSS",
+        "adminid": "607926085551783968",
+        "guild": "863681026763915264"
+      }
+    ],
+    "855552926050549820": [
+      {
+        "msg": "!whitelist",
+        "tarih": 1628960588691,
+        "admin": ".Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!whitelists",
+        "tarih": 1628960589472,
+        "admin": ".Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!whitelist",
+        "tarih": 1628960720166,
+        "admin": ".Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!whitelist",
+        "tarih": 1628961434350,
+        "admin": ".Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!rolsüz ver\n****",
+        "tarih": 1628962387645,
+        "admin": "Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!rolsüz ver",
+        "tarih": 1628962508911,
+        "admin": "Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "amk",
+        "tarih": 1628963012154,
+        "admin": "Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!whitelists",
+        "tarih": 1628963044642,
+        "admin": "Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!rolsüz",
+        "tarih": 1628964039730,
+        "admin": "Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!rolsüz ver",
+        "tarih": 1628964042974,
+        "admin": "Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "amk",
+        "tarih": 1628964646240,
+        "admin": "• Deneme",
+        "adminid": "769135301679382558",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "discord.gg/",
+        "tarih": 1628964678258,
+        "admin": "• Deneme",
+        "adminid": "769135301679382558",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "amk",
+        "tarih": 1628964680538,
+        "admin": "• Deneme",
+        "adminid": "769135301679382558",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "oç",
+        "tarih": 1628964683193,
+        "admin": "• Deneme",
+        "adminid": "769135301679382558",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "sik",
+        "tarih": 1628964687267,
+        "admin": "• Deneme",
+        "adminid": "769135301679382558",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "sg",
+        "tarih": 1628964691244,
+        "admin": "• Deneme",
+        "adminid": "769135301679382558",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "tag",
+        "tarih": 1628964845869,
+        "admin": "Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!cezalar <@!769135301679382558>",
+        "tarih": 1628965977836,
+        "admin": "Mateas",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!button",
+        "tarih": 1628983156053,
+        "admin": "cu",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "<@!814121975471407104>",
+        "tarih": 1628983329466,
+        "admin": "schwarze",
+        "adminid": "275361512493809664",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "<@!335775553229422593>",
+        "tarih": 1628983348016,
+        "admin": "schwarze",
+        "adminid": "275361512493809664",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "ananı",
+        "tarih": 1628985855895,
+        "admin": "ChransXD",
+        "adminid": "852927879091322880",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "ananı",
+        "tarih": 1628985960362,
+        "admin": "ChransXD",
+        "adminid": "852927879091322880",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "sikerim",
+        "tarih": 1628985961447,
+        "admin": "ChransXD",
+        "adminid": "852927879091322880",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": ".prefix -",
+        "tarih": 1629028340231,
+        "admin": "!  Anthony | 22",
+        "adminid": "852616639073091604",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": ".help",
+        "tarih": 1629028343324,
+        "admin": "!  Anthony | 22",
+        "adminid": "852616639073091604",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": ".e <@!852863115720130590> koray 19",
+        "tarih": 1629041437767,
+        "admin": "・ Koray | 18",
+        "adminid": "852863115720130590",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": "!tagtara Ro",
+        "tarih": 1629042933916,
+        "admin": "cu",
+        "adminid": "607926085551783968",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": ".k <@!797902294044639312>",
+        "tarih": 1629043144703,
+        "admin": "!  Anthony | 22",
+        "adminid": "852616639073091604",
+        "guild": "855552926050549820"
+      },
+      {
+        "msg": ".",
+        "tarih": 1629045016006,
+        "admin": "• buzzyy",
+        "adminid": "852977675365515334",
+        "guild": "855552926050549820"
+      }
+    ]
+  },
+  "permission": [
+    {
+      "rolid": "875449077893038111",
+      "rolPermission": 104320585
+    },
+    {
+      "rolid": "875449077893038111",
+      "rolPermission": 8
+    }
+  ],
+  "voiceTime_864456420144447520_863681026763915264": "2021-08-14T15:29:58.906Z",
+  "voiceTime_864459968170295316_863681026763915264": "2021-08-14T15:29:58.912Z",
+  "voiceTime_864458633278521375_863681026763915264": "2021-08-14T15:29:58.914Z",
+  "voiceTime_874379261966942238_863681026763915264": "2021-08-14T15:29:58.919Z",
+  "voiceTime_864459183666626590_863681026763915264": "2021-08-14T15:29:58.942Z",
+  "voiceTime_874379191922077706_863681026763915264": "2021-08-14T15:29:58.958Z",
+  "voiceTime_864460138022436864_863681026763915264": "2021-08-14T15:29:58.965Z",
+  "voiceTime_874379220426555463_863681026763915264": "2021-08-14T15:29:58.966Z",
+  "voiceTime_864458685533913089_863681026763915264": "2021-08-14T15:29:58.969Z",
+  "voiceTime_874379166252924940_863681026763915264": "2021-08-14T15:29:58.989Z",
+  "voiceTime_864829234233081927_863681026763915264": "2021-08-14T15:29:59.020Z",
+  "voiceTime_864829762601877515_863681026763915264": "2021-08-14T15:34:14.895Z",
+  "voiceTime_865187880828665868_863681026763915264": "2021-08-14T16:45:03.056Z",
+  "ChatKullanım": {
+    "607926085551783968": 1,
+    "769135301679382558": 5,
+    "275361512493809664": 1,
+    "852927879091322880": 4,
+    "852863115720130590": 1
+  },
+  "voiceTime_865996269175832616_855552926050549820": "2021-08-14T18:09:36.434Z",
+  "voiceTime_865970109243195432_855552926050549820": "2021-08-14T18:09:37.638Z",
+  "voiceTime_865970086723452958_855552926050549820": "2021-08-14T18:09:38.941Z",
+  "voiceTime_865970050241265704_855552926050549820": "2021-08-14T18:09:39.949Z",
+  "voiceTime_865970452170276876_855552926050549820": "2021-08-14T18:09:41.243Z",
+  "vmstatus": {
+    "855552926050549820": {
+      "769135301679382558": "false"
+    }
+  },
+  "voiceTime_769135301679382558_855552926050549820": "2021-08-14T18:40:26.287Z",
+  "voiceTime_607926085551783968_855552926050549820": "2021-08-14T18:41:52.788Z",
+  "voiceTime_849942546121883678_855552926050549820": "2021-08-14T18:55:27.813Z",
+  "voiceTime_865187880828665868_855552926050549820": "2021-08-14T19:33:25.943Z",
+  "voiceTime_389404150963765250_855552926050549820": "2021-08-15T12:32:33.911Z",
+  "voiceTime_852683444680392745_855552926050549820": "2021-08-15T13:16:25.801Z",
+  "voiceTime_865187560795406337_855552926050549820": "2021-08-15T14:03:38.466Z",
+  "voiceTime_865188067819913216_855552926050549820": "2021-08-15T14:03:38.564Z",
+  "voiceTime_852863115720130590_855552926050549820": "2021-08-15T15:59:20.935Z",
+  "voiceTime_852922734513356840_855552926050549820": "2021-08-15T16:04:40.278Z",
+  "voiceTime_852980746276700190_855552926050549820": "2021-08-15T16:18:21.043Z",
+  "voiceTime_865187725186826241_855552926050549820": "2021-08-15T16:47:30.062Z"
+}

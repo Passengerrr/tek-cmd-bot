@@ -1,0 +1,13 @@
+{
+  "Mateas":"607926085551783968",
+  "Mongo_URL":"mongodb+srv://Lucretius:kayaalper2008@cluster0.agvc7.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "GuildID":"855552926050549820",
+  "Bot_Type":"Mateas ❤️ 1954",
+  "Bot_Status":"dnd",
+  "ABot_Status":"idle",
+  "Bot_Voice_Channel":"875863498435993630",
+  "Shippingprefix":"!",
+  "Moderationprefix":["!","."],
+  "Inviteprefix":"!",
+  "Guardprefix":"!"
+}

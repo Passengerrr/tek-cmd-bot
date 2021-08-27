@@ -1,0 +1,12 @@
+{
+    "OwnerID":"607926085551783968",
+    "guildID":"855552926050549820",
+    "prefix":"!",
+    "whitelist":[""],
+    "kufurengel": "true",
+    "capsengel": "true",
+    "spamengel": "true",
+    "mentionengel": "true",
+    "reklamengel": "true",
+    "morewordengel": "true"
+}
